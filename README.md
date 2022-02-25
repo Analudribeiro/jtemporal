@@ -2,11 +2,11 @@
 
 ![Jess Temporal's GitHub stats](https://github-readme-stats.vercel.app/api?username=jtemporal&show_icons=true&theme=tokyonight)
 
-Se você quiser me conhecer um pouquinho melhor continue lendo:
+🇧🇷 Se você quiser me conhecer um pouquinho melhor continue lendo:
 
-If you want to get to know me read on:
+🇺🇸 If you want to get to know me read on:
 
-## English
+## 🇺🇸 English
 
 I became a software development and data science enthusiast during Biomedical Informatics undergraduate when I learned to seek information in cancer and stem cells sequencing data using R. Still, in college, I joined the local Python community and did a brief internship as a back-end developer using Python and Django. After that, I went back to analyzing data for a [research project in which I used the Natural Language Processing library NLTK to process tweets](https://jtemporal.com/jessie).
 
@@ -24,7 +24,7 @@ I was awarded the [Dorneles Treméa\|Jean Ferri Award](https://python.org.br/pre
 
 Other than that, I continue to contribute and maintain open-source projects on GitHub. I'm also part of the instructors' team at both [Data Bootcamp](https://databootcamp.com.br/team) and [LinkedIn Learning](https://www.linkedin.com/learning/instructors/jessica-temporal). I write technical posts about many technology-related subjects [on my blog](https://jtemporal.com/), [Pizza's blog](https://medium.com/pizzadedados), and create git study cards in Portuguese at [GitFichas](http://gitfichas.com).
 
-## Português
+## 🇧🇷 Português
 
 Me tornei uma entusiasta de tecnologia e ciência de dados durante a faculdade de Informática Biomédica quando aprendi a buscar informações em dados de sequenciamento genético de câncer e células-tronco usando R.
 
